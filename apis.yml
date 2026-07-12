@@ -24,6 +24,10 @@ specificationVersion: '0.19'
 type: Index
 apis: []
 common:
+  - type: VulnerabilityDisclosure
+    url: security/trw-automotive-holdings-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/trw-automotive-holdings-domain-security.yml
   - type: Website
     url: https://aftermarket.zf.com/en/aftermarket-portal/our-brands/trw/
   - type: ParentOrganization
