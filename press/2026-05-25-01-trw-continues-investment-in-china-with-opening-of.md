@@ -1,7 +1,9 @@
 ---
 title: TRW Continues Investment In China With Opening Of ...
 url: https://www.prnewswire.com/news-releases/trw-continues-investment-in-china-with-opening-of-three-new-plants-300068162.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"TRW Automotive Holdings" press release artificial intelligence'
 position: 1
 source: serpapi-google

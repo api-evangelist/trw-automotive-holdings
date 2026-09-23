@@ -1,7 +1,9 @@
 ---
 title: TRW Automotive Selects Sherlock Automated Design Analysis ...
 url: https://ai-online.com/2011/09/trw-automotive-selects-sherlock-automated-design-analysis-software-from-dfr-solutions/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"TRW Automotive Holdings" press release artificial intelligence'
 position: 4
 source: serpapi-google

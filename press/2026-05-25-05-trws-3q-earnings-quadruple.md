@@ -1,7 +1,9 @@
 ---
 title: TRW's 3Q earnings quadruple
 url: https://www.autonews.com/article/20071030/ANA02/71030004/trw-s-3q-earnings-quadruple/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"TRW Automotive Holdings" press release artificial intelligence'
 position: 5
 source: serpapi-google

@@ -1,7 +1,9 @@
 ---
 title: TRW Automotive Reports Rise in Profits
 url: https://www.aftermarketnews.com/trw-automotive-reports-rise-in-profits/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"TRW Automotive Holdings" press release artificial intelligence'
 position: 2
 source: serpapi-google
