@@ -1,0 +1,14 @@
+{
+  "repo": "trw-automotive-holdings",
+  "feeds": [
+    {
+      "source": "https://aftermarket.zf.com/en/aftermarket-portal/whats-new/news/",
+      "feed_url": "https://aftermarket.zf.com/en/aftermarket-portal/whats-new/news/",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    }
+  ],
+  "post_count": 0,
+  "fetched": "2026-10-10T13:15:00Z"
+}
